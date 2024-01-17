@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Undergraduate Computer Science Major at SUNY Brockport
-Lived in Canada, Türkiye and currently the U.S.
+Undergraduate Computer Science Major at SUNY Brockport 
+
+Lived in Canada, Türkiye and currently the U.S. 
+
 Interested in Machine Learning, Startups, Software, Applied Sciences, and Design
 
 Skills: Python, HTML, CSS, JavaScript, Java, Linux, Web Development, Linux
