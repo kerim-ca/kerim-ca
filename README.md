@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 Undergraduate Computer Science Major at SUNY Brockport 
 
 
-Skills: Python, HTML, CSS, JavaScript, Java, Linux, Web Development, Linux
+[Resume](https://kerim.ca/resume.pdf)
