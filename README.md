@@ -1,4 +1,4 @@
-### Hi there 👋
+### kerim k
 
 <!--
 **kerim-ca/kerim-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Undergraduate Computer Science Major at SUNY Brockport 
-
-
-[Resume](https://kerim.ca/resume.pdf)
+MSCS @ Georgia Tech
